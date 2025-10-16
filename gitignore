@@ -1,5 +1,0 @@
-# Ignore everything in cache/
-data/*
-
-# But keep the folder itself
-!data/.gitkeep
